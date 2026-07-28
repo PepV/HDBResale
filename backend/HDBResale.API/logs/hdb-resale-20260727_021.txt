@@ -1,0 +1,59 @@
+2026-07-27 23:47:13.490 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.494 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.492 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:47:13.546 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.546 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:47:13.546 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.568 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.570 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:47:13.571 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:47:13.886 +08:00 [INF] Received HTTP response headers after 298.0283ms - 200
+2026-07-27 23:47:13.897 +08:00 [INF] End processing HTTP request after 358.355ms - 200
+2026-07-27 23:47:16.561 +08:00 [INF] Received HTTP response headers after 2980.7331ms - 200
+2026-07-27 23:47:16.569 +08:00 [INF] Received HTTP response headers after 2983.4915ms - 200
+2026-07-27 23:47:16.578 +08:00 [INF] End processing HTTP request after 3039.3618ms - 200
+2026-07-27 23:47:16.581 +08:00 [INF] End processing HTTP request after 3042.3628ms - 200
+[23:49:24 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:49:24 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:49:24 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:49:24 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:49:24 INF] Received HTTP response headers after 293.3375ms - 200
+[23:49:24 INF] End processing HTTP request after 331.4822ms - 200
+[23:49:24 INF] Received HTTP response headers after 377.8387ms - 200
+[23:49:24 INF] End processing HTTP request after 412.315ms - 200
+[23:49:24 INF] Received HTTP response headers after 665.9546ms - 200
+[23:49:24 INF] End processing HTTP request after 715.1339ms - 200
+[23:49:24 INF] Retrieved 10 price range records from API
+[23:49:24 INF] Processing: Town=Punggol, RoomType=2-room, MinPrice=82000, MaxPrice=107000, Year=2008
+[23:49:24 INF] Created DTO: Town=Punggol, MinPrice=82000, MaxPrice=107000
+[23:49:24 INF] Processing: Town=Punggol, RoomType=3-room, MinPrice=135000, MaxPrice=211000, Year=2008
+[23:49:24 INF] Created DTO: Town=Punggol, MinPrice=135000, MaxPrice=211000
+[23:49:24 INF] Processing: Town=Punggol, RoomType=4-room, MinPrice=223000, MaxPrice=327000, Year=2008
+[23:49:24 INF] Created DTO: Town=Punggol, MinPrice=223000, MaxPrice=327000
+[23:49:24 INF] Processing: Town=Punggol, RoomType=5-room, MinPrice=305000, MaxPrice=428000, Year=2008
+[23:49:24 INF] Created DTO: Town=Punggol, MinPrice=305000, MaxPrice=428000
+[23:49:24 INF] Processing: Town=Jurong West, RoomType=3-room, MinPrice=142000, MaxPrice=160000, Year=2008
+[23:49:24 INF] Created DTO: Town=Jurong West, MinPrice=142000, MaxPrice=160000
+[23:49:24 INF] Processing: Town=Jurong West, RoomType=4-room, MinPrice=211000, MaxPrice=253000, Year=2008
+[23:49:24 INF] Created DTO: Town=Jurong West, MinPrice=211000, MaxPrice=253000
+[23:49:24 INF] Processing: Town=Jurong West, RoomType=5-room, MinPrice=229000, MaxPrice=319000, Year=2008
+[23:49:24 INF] Created DTO: Town=Jurong West, MinPrice=229000, MaxPrice=319000
+[23:49:24 INF] Processing: Town=Bukit Panjang, RoomType=2-room, MinPrice=82000, MaxPrice=106000, Year=2008
+[23:49:24 INF] Created DTO: Town=Bukit Panjang, MinPrice=82000, MaxPrice=106000
+[23:49:24 INF] Processing: Town=Bukit Panjang, RoomType=3-room, MinPrice=138000, MaxPrice=170000, Year=2008
+[23:49:24 INF] Created DTO: Town=Bukit Panjang, MinPrice=138000, MaxPrice=170000
+[23:49:24 INF] Processing: Town=Bukit Panjang, RoomType=4-room, MinPrice=211000, MaxPrice=270000, Year=2008
+[23:49:24 INF] Created DTO: Town=Bukit Panjang, MinPrice=211000, MaxPrice=270000
+[23:49:24 INF] Returning 10 filtered results with Min/Max prices
+[23:49:24 INF] Returning cached data with 10 records
+[23:51:54 INF] Returning cached data with 10 records
+[23:52:10 INF] Returning cached data with 10 records
+[23:52:10 INF] Returning cached data with 10 records
+[23:52:25 INF] Returning cached data with 10 records
+[23:52:25 INF] Returning cached data with 10 records
+[23:52:51 INF] Returning cached data with 10 records

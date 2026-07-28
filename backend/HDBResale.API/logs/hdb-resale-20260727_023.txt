@@ -1,0 +1,48 @@
+2026-07-27 23:54:29.275 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.274 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:54:29.273 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.322 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.322 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:54:29.322 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.332 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.334 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:54:29.335 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:54:29.756 +08:00 [INF] Received HTTP response headers after 405.853ms - 200
+2026-07-27 23:54:29.771 +08:00 [INF] End processing HTTP request after 452.741ms - 200
+2026-07-27 23:54:29.773 +08:00 [INF] Received HTTP response headers after 427.8466ms - 200
+2026-07-27 23:54:29.781 +08:00 [INF] End processing HTTP request after 462.757ms - 200
+2026-07-27 23:54:29.798 +08:00 [INF] Retrieved 10 price range records from API
+2026-07-27 23:54:29.801 +08:00 [INF] Received HTTP response headers after 457.3352ms - 200
+2026-07-27 23:54:29.804 +08:00 [INF] Processing: Town=Punggol, RoomType=2-room, MinPrice=82000, MaxPrice=107000, Year=2008
+2026-07-27 23:54:29.806 +08:00 [INF] End processing HTTP request after 487.5426ms - 200
+2026-07-27 23:54:29.812 +08:00 [INF] Created DTO: Town=Punggol, MinPrice=82000, MaxPrice=107000
+2026-07-27 23:54:29.819 +08:00 [INF] Processing: Town=Punggol, RoomType=3-room, MinPrice=135000, MaxPrice=211000, Year=2008
+2026-07-27 23:54:29.821 +08:00 [INF] Created DTO: Town=Punggol, MinPrice=135000, MaxPrice=211000
+2026-07-27 23:54:29.824 +08:00 [INF] Processing: Town=Punggol, RoomType=4-room, MinPrice=223000, MaxPrice=327000, Year=2008
+2026-07-27 23:54:29.827 +08:00 [INF] Created DTO: Town=Punggol, MinPrice=223000, MaxPrice=327000
+2026-07-27 23:54:29.835 +08:00 [INF] Processing: Town=Punggol, RoomType=5-room, MinPrice=305000, MaxPrice=428000, Year=2008
+2026-07-27 23:54:29.838 +08:00 [INF] Created DTO: Town=Punggol, MinPrice=305000, MaxPrice=428000
+2026-07-27 23:54:29.841 +08:00 [INF] Processing: Town=Jurong West, RoomType=3-room, MinPrice=142000, MaxPrice=160000, Year=2008
+2026-07-27 23:54:29.844 +08:00 [INF] Created DTO: Town=Jurong West, MinPrice=142000, MaxPrice=160000
+2026-07-27 23:54:29.849 +08:00 [INF] Processing: Town=Jurong West, RoomType=4-room, MinPrice=211000, MaxPrice=253000, Year=2008
+2026-07-27 23:54:29.852 +08:00 [INF] Created DTO: Town=Jurong West, MinPrice=211000, MaxPrice=253000
+2026-07-27 23:54:29.855 +08:00 [INF] Processing: Town=Jurong West, RoomType=5-room, MinPrice=229000, MaxPrice=319000, Year=2008
+2026-07-27 23:54:29.857 +08:00 [INF] Created DTO: Town=Jurong West, MinPrice=229000, MaxPrice=319000
+2026-07-27 23:54:29.863 +08:00 [INF] Processing: Town=Bukit Panjang, RoomType=2-room, MinPrice=82000, MaxPrice=106000, Year=2008
+2026-07-27 23:54:29.866 +08:00 [INF] Created DTO: Town=Bukit Panjang, MinPrice=82000, MaxPrice=106000
+2026-07-27 23:54:29.869 +08:00 [INF] Processing: Town=Bukit Panjang, RoomType=3-room, MinPrice=138000, MaxPrice=170000, Year=2008
+2026-07-27 23:54:29.871 +08:00 [INF] Created DTO: Town=Bukit Panjang, MinPrice=138000, MaxPrice=170000
+2026-07-27 23:54:29.874 +08:00 [INF] Processing: Town=Bukit Panjang, RoomType=4-room, MinPrice=211000, MaxPrice=270000, Year=2008
+2026-07-27 23:54:29.876 +08:00 [INF] Created DTO: Town=Bukit Panjang, MinPrice=211000, MaxPrice=270000
+2026-07-27 23:54:29.879 +08:00 [INF] Returning 10 filtered results with Min/Max prices
+2026-07-27 23:54:33.373 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:54:33.388 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:54:45.058 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:54:45.074 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:54:49.562 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:54:49.584 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:55:27.093 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:56:48.096 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:57:38.095 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:59:06.031 +08:00 [INF] Returning cached data with 10 records
+2026-07-27 23:59:06.055 +08:00 [INF] Returning cached data with 10 records

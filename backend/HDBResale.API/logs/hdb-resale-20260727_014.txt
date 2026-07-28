@@ -1,0 +1,154 @@
+2026-07-27 23:02:06.375 +08:00 [ERR] Hosting failed to start
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[23:06:14 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:14 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:14 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:14 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:15 INF] Received HTTP response headers after 413.9648ms - 200
+[23:06:15 INF] Received HTTP response headers after 410.7321ms - 200
+[23:06:15 INF] End processing HTTP request after 456.9377ms - 200
+[23:06:15 INF] End processing HTTP request after 458.2125ms - 200
+[23:06:29 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:29 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:29 INF] Getting statistics for Town: null
+[23:06:29 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:29 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:29 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:06:29 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:30 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+[23:06:30 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:30 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+[23:06:30 INF] Received HTTP response headers after 340.9907ms - 200
+[23:06:30 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+[23:06:30 INF] End processing HTTP request after 798.566ms - 200
+[23:06:30 INF] Received HTTP response headers after 650.5715ms - 200
+[23:06:30 INF] End processing HTTP request after 1085.3687ms - 200
+[23:06:31 INF] Received HTTP response headers after 1345.3628ms - 200
+[23:06:31 INF] End processing HTTP request after 1777.8164ms - 200
+[23:06:32 INF] Successfully parsed 10 records
+[23:06:33 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:06:49 INF] Getting statistics for Town: null
+[23:06:49 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:49 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:49 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:49 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:49 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+[23:06:49 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:06:49 INF] Received HTTP response headers after 115.0469ms - 200
+[23:06:49 INF] End processing HTTP request after 519.1316ms - 200
+[23:06:49 INF] Received HTTP response headers after 233.4136ms - 200
+[23:06:49 INF] End processing HTTP request after 686.1028ms - 200
+[23:07:01 INF] Successfully parsed 1000 records
+[23:07:03 INF] Successfully parsed 1000 records
+[23:07:10 INF] Getting property info for Block: 22
+[23:07:10 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=22
+[23:07:10 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=22
+[23:07:11 INF] Received HTTP response headers after 1150.3766ms - 200
+[23:07:12 INF] End processing HTTP request after 1397.1847ms - 200
+[23:07:13 INF] Getting statistics for Town: null
+[23:07:13 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:13 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:13 INF] Getting statistics for Town: null
+[23:07:13 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:13 INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:13 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+[23:07:14 INF] Received HTTP response headers after 192.8323ms - 200
+[23:07:14 INF] End processing HTTP request after 470.6186ms - 200
+[23:07:14 INF] Received HTTP response headers after 111.2421ms - 200
+[23:07:14 INF] End processing HTTP request after 387.8424ms - 200
+[23:07:17 INF] Successfully parsed 1000 records
+[23:07:18 INF] Getting property info for Block: 11
+[23:07:18 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=11
+[23:07:18 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=11
+[23:07:19 INF] Received HTTP response headers after 1016.7766ms - 200
+[23:07:19 INF] End processing HTTP request after 1270.3373ms - 200
+[23:07:24 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[23:07:24 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[23:07:25 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[23:07:25 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[23:07:26 INF] Received HTTP response headers after 759.1159ms - 200
+[23:07:26 INF] End processing HTTP request after 1064.923ms - 200
+[23:07:26 INF] Retrieved 50 property records, Total: 13357
+[23:07:27 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[23:07:27 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[23:07:27 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[23:07:30 INF] Received HTTP response headers after 2766.7212ms - 200
+[23:07:30 INF] End processing HTTP request after 3146.9385ms - 200
+[23:07:31 INF] Retrieved 1000 property records, Total: 13357
+[23:07:32 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[23:07:37 INF] Getting property list with search: , town: , limit: 20, offset: 0
+[23:07:37 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+[23:07:37 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+[23:07:37 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+[23:07:37 INF] Received HTTP response headers after 573.6962ms - 200
+[23:07:37 INF] End processing HTTP request after 783.5994ms - 200
+[23:07:37 INF] Retrieved 20 property records, Total: 13357
+[23:07:41 INF] Getting property list with search: , town: , limit: 20, offset: 20
+[23:07:41 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=20
+[23:07:42 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=20
+[23:07:42 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=20
+[23:07:42 INF] Received HTTP response headers after 627.0913ms - 200
+[23:07:42 INF] End processing HTTP request after 909.461ms - 200
+[23:07:43 INF] Retrieved 20 property records, Total: 13357
+[23:07:48 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:07:48 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:07:48 INF] Successfully parsed 1000 records
+[23:08:08 INF] Successfully parsed 2000 records
+[23:08:08 WRN] No statistics data found
+[23:08:08 INF] Getting statistics for Town: null
+[23:08:08 INF] Getting statistics for Town: null
+[23:08:08 WRN] No statistics data found
+[23:08:08 WRN] No statistics data found
+[23:08:28 INF] Successfully parsed 2000 records
+[23:08:28 WRN] No statistics data found
+[23:08:38 INF] Successfully parsed 2000 records
+[23:08:39 WRN] No statistics data found
+[23:08:42 INF] Successfully parsed 2000 records
+[23:08:42 WRN] No statistics data found
+[23:08:48 INF] Getting statistics for Town: null
+[23:08:48 WRN] No statistics data found
+[23:08:48 INF] Getting statistics for Town: null
+[23:08:48 WRN] No statistics data found
+[23:09:08 INF] Getting statistics for Town: null
+[23:09:08 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:09:08 WRN] No statistics data found
+[23:09:08 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:09:08 INF] Getting statistics for Town: null
+[23:09:08 WRN] No statistics data found
+[23:10:30 INF] Getting statistics for Town: null
+[23:10:30 WRN] No statistics data found
+[23:10:30 INF] Getting statistics for Town: null
+[23:10:30 WRN] No statistics data found
+[23:10:32 INF] Getting statistics for Town: null
+[23:10:32 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:10:32 WRN] No statistics data found
+[23:10:32 INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:10:32 INF] Getting statistics for Town: null
+[23:10:32 WRN] No statistics data found

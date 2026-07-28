@@ -1,0 +1,138 @@
+2026-07-28 00:24:58.324 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.326 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-28 00:24:58.319 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.443 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.443 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-28 00:24:58.443 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.468 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.471 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-28 00:24:58.475 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:24:58.905 +08:00 [INF] Received HTTP response headers after 399.8128ms - 200
+2026-07-28 00:24:58.905 +08:00 [INF] Received HTTP response headers after 392.3939ms - 200
+2026-07-28 00:24:58.905 +08:00 [INF] Received HTTP response headers after 403.8564ms - 200
+2026-07-28 00:24:58.935 +08:00 [INF] End processing HTTP request after 505.1921ms - 200
+2026-07-28 00:24:58.937 +08:00 [INF] End processing HTTP request after 506.9266ms - 200
+2026-07-28 00:24:58.939 +08:00 [INF] End processing HTTP request after 509.6058ms - 200
+2026-07-28 00:25:09.681 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-28 00:25:09.694 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 00:25:09.839 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 00:25:09.861 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 00:25:10.071 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 00:25:10.131 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 00:25:10.333 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 00:25:11.676 +08:00 [INF] Received HTTP response headers after 1162.2928ms - 200
+2026-07-28 00:25:11.752 +08:00 [INF] End processing HTTP request after 1708.3795ms - 200
+2026-07-28 00:25:12.285 +08:00 [INF] Retrieved 50 property records, Total: 13357
+2026-07-28 00:25:12.879 +08:00 [INF] Received HTTP response headers after 2488.3218ms - 200
+2026-07-28 00:25:13.031 +08:00 [INF] End processing HTTP request after 3170.5315ms - 200
+2026-07-28 00:25:13.085 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-28 00:25:15.566 +08:00 [INF] Retrieved 1000 property records, Total: 13357
+2026-07-28 00:25:18.137 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:18.241 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:18.262 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:18.496 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:18.575 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:18.703 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-28 00:25:19.017 +08:00 [INF] Received HTTP response headers after 164.4048ms - 200
+2026-07-28 00:25:19.112 +08:00 [INF] Received HTTP response headers after 371.6745ms - 200
+2026-07-28 00:25:19.277 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:19.459 +08:00 [INF] End processing HTTP request after 1196.2658ms - 200
+2026-07-28 00:25:19.511 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:19.277 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:19.169 +08:00 [INF] End processing HTTP request after 673.4644ms - 200
+2026-07-28 00:25:20.026 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:20.285 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:20.926 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+2026-07-28 00:25:23.708 +08:00 [INF] Received HTTP response headers after 3065.9281ms - 200
+2026-07-28 00:25:23.740 +08:00 [INF] Received HTTP response headers after 2684.6938ms - 200
+2026-07-28 00:25:23.957 +08:00 [INF] End processing HTTP request after 4446.4102ms - 200
+2026-07-28 00:25:24.064 +08:00 [INF] End processing HTTP request after 3779.7128ms - 200
+2026-07-28 00:25:25.835 +08:00 [INF] Retrieved 2000 salesperson records, Total: 38214
+2026-07-28 00:25:26.024 +08:00 [INF] Retrieved 2000 salesperson records, Total: 38214
+2026-07-28 00:25:26.672 +08:00 [INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+2026-07-28 00:25:26.787 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+2026-07-28 00:25:26.872 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+2026-07-28 00:25:27.070 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+2026-07-28 00:25:27.827 +08:00 [INF] Received HTTP response headers after 624.4871ms - 200
+2026-07-28 00:25:27.980 +08:00 [INF] End processing HTTP request after 1108.4804ms - 200
+2026-07-28 00:25:28.192 +08:00 [INF] Retrieved 50 salesperson records, Total: 38214
+2026-07-28 00:25:28.697 +08:00 [INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+2026-07-28 00:25:38.998 +08:00 [INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 50
+2026-07-28 00:25:39.083 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+2026-07-28 00:25:39.192 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+2026-07-28 00:25:39.337 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+2026-07-28 00:25:40.068 +08:00 [INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 100
+2026-07-28 00:25:40.094 +08:00 [INF] Received HTTP response headers after 648.9511ms - 200
+2026-07-28 00:25:40.243 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=100
+2026-07-28 00:25:40.340 +08:00 [INF] End processing HTTP request after 1148.1498ms - 200
+2026-07-28 00:25:40.531 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=100
+2026-07-28 00:25:40.655 +08:00 [INF] Retrieved 50 salesperson records, Total: 38214
+2026-07-28 00:25:40.829 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=100
+2026-07-28 00:25:41.066 +08:00 [INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 150
+2026-07-28 00:25:41.175 +08:00 [INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=150
+2026-07-28 00:25:41.222 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=150
+2026-07-28 00:25:41.384 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=150
+2026-07-28 00:25:41.578 +08:00 [INF] Received HTTP response headers after 623.3217ms - 200
+2026-07-28 00:25:41.767 +08:00 [INF] End processing HTTP request after 1220.6984ms - 200
+2026-07-28 00:25:41.946 +08:00 [INF] Retrieved 50 salesperson records, Total: 38214
+2026-07-28 00:25:42.063 +08:00 [INF] Received HTTP response headers after 565.7054ms - 200
+2026-07-28 00:25:42.276 +08:00 [INF] End processing HTTP request after 1054.4749ms - 200
+2026-07-28 00:25:42.596 +08:00 [INF] Retrieved 50 salesperson records, Total: 38214
+[00:28:37 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:28:37 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+[00:28:37 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+[00:28:37 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=0
+[00:28:37 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000&offset=0
+[00:28:37 INF] Received HTTP response headers after 417.1001ms - 200
+[00:28:37 INF] Received HTTP response headers after 439.1527ms - 200
+[00:28:37 INF] End processing HTTP request after 502.0668ms - 200
+[00:28:37 INF] End processing HTTP request after 502.0395ms - 200
+[00:28:37 INF] Response received, length: 12837
+[00:28:37 INF] Total count: 38214
+[00:28:37 INF] First record structure: {"_id":1,"salesperson_name":"WANG SOON YEE, LARRY","registration_no":"P015022G","registration_start_date":"2011-01-01","registration_end_date":"2026-12-31","estate_agent_name":"MCDOWELL REALTY NETWORK","estate_agent_license_no":"L3006213G"}
+[00:28:37 INF] Received HTTP response headers after 496.4368ms - 200
+[00:28:37 INF] Successfully parsed 50 records out of 50
+[00:28:37 INF] End processing HTTP request after 570.8333ms - 200
+[00:28:37 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:28:39 INF] Response received, length: 497901
+[00:28:39 INF] Response received, length: 497901
+[00:28:39 INF] Total count: 38214
+[00:28:39 INF] First record structure: {"_id":1,"salesperson_name":"WANG SOON YEE, LARRY","registration_no":"P015022G","registration_start_date":"2011-01-01","registration_end_date":"2026-12-31","estate_agent_name":"MCDOWELL REALTY NETWORK","estate_agent_license_no":"L3006213G"}
+[00:28:39 INF] Total count: 38214
+[00:28:39 INF] First record structure: {"_id":1,"salesperson_name":"WANG SOON YEE, LARRY","registration_no":"P015022G","registration_start_date":"2011-01-01","registration_end_date":"2026-12-31","estate_agent_name":"MCDOWELL REALTY NETWORK","estate_agent_license_no":"L3006213G"}
+[00:28:39 INF] Successfully parsed 2000 records out of 2000
+[00:28:39 INF] Successfully parsed 2000 records out of 2000
+[00:28:49 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:29:18 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:29:18 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:29:20 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:29:20 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:29:20 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:29:21 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:29:21 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:29:21 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:29:21 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:29:21 INF] Received HTTP response headers after 120.9743ms - 200
+[00:29:21 INF] End processing HTTP request after 168.1851ms - 200
+[00:29:21 INF] Received HTTP response headers after 182.6828ms - 200
+[00:29:21 INF] End processing HTTP request after 228.505ms - 200
+[00:29:21 INF] Retrieved 50 property records, Total: 13357
+[00:29:21 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:29:21 INF] Retrieved 1000 property records, Total: 13357
+[00:29:22 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:29:22 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:29:26 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 50
+[00:29:26 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+[00:29:26 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+[00:29:26 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=50&offset=50
+[00:29:26 INF] Received HTTP response headers after 75.4749ms - 200
+[00:29:26 INF] End processing HTTP request after 113.6103ms - 200
+[00:29:26 INF] Response received, length: 13355
+[00:29:26 INF] Total count: 38214
+[00:29:26 INF] First record structure: {"_id":51,"salesperson_name":"TAN CHOO LENG (IVY)","registration_no":"R016939D","registration_start_date":"2011-01-01","registration_end_date":"2026-12-31","estate_agent_name":"EASTGATE REALTY PTE. LTD.","estate_agent_license_no":"L3009105I"}
+[00:29:26 INF] Successfully parsed 50 records out of 50

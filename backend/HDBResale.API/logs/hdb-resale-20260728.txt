@@ -1,0 +1,22 @@
+[00:01:04 INF] Returning cached data with 10 records
+[00:01:04 INF] Returning cached data with 10 records
+[00:02:06 INF] Returning cached data with 10 records
+[00:02:06 INF] Returning cached data with 10 records
+[00:02:19 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:02:19 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:02:19 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:02:19 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:02:19 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:02:19 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:02:19 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:02:20 INF] Received HTTP response headers after 664.0884ms - 200
+[00:02:20 INF] End processing HTTP request after 682.4941ms - 200
+[00:02:20 INF] Retrieved 50 property records, Total: 13357
+[00:02:20 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:02:22 INF] Received HTTP response headers after 2492.8613ms - 200
+[00:02:22 INF] End processing HTTP request after 2509.0895ms - 200
+[00:02:23 INF] Retrieved 1000 property records, Total: 13357
+[00:02:29 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=134
+[00:02:29 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=134
+[00:02:30 INF] Received HTTP response headers after 614.7271ms - 200
+[00:02:30 INF] End processing HTTP request after 626.9888ms - 200

@@ -1,0 +1,85 @@
+2026-07-28 00:45:53.171 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+2026-07-28 00:45:53.171 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:45:53.171 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:45:53.316 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+2026-07-28 00:45:53.316 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:45:53.316 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:45:53.977 +08:00 [INF] Received HTTP response headers after 635.0032ms - 200
+2026-07-28 00:45:53.996 +08:00 [INF] End processing HTTP request after 833.4617ms - 200
+2026-07-28 00:45:54.260 +08:00 [INF] Received HTTP response headers after 918.6692ms - 200
+2026-07-28 00:45:54.350 +08:00 [INF] Received HTTP response headers after 996.4034ms - 200
+2026-07-28 00:45:54.483 +08:00 [INF] End processing HTTP request after 1331.7157ms - 200
+2026-07-28 00:45:54.830 +08:00 [INF] End processing HTTP request after 1666.3825ms - 200
+2026-07-28 00:46:12.929 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:46:13.008 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:46:13.297 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:46:13.423 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:46:14.058 +08:00 [INF] Received HTTP response headers after 251.9673ms - 200
+2026-07-28 00:46:14.186 +08:00 [INF] Received HTTP response headers after 270.6331ms - 200
+2026-07-28 00:46:14.561 +08:00 [INF] End processing HTTP request after 1616.0036ms - 200
+2026-07-28 00:46:14.757 +08:00 [INF] End processing HTTP request after 1748.7145ms - 200
+2026-07-28 00:46:45.211 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:46:45.435 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:46:45.538 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=500
+2026-07-28 00:46:45.887 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 00:46:46.329 +08:00 [INF] Received HTTP response headers after 89.142ms - 200
+2026-07-28 00:46:46.369 +08:00 [INF] Received HTTP response headers after 343.4164ms - 200
+2026-07-28 00:46:46.585 +08:00 [INF] End processing HTTP request after 1150.2634ms - 200
+2026-07-28 00:46:46.713 +08:00 [INF] End processing HTTP request after 1518.1945ms - 200
+[00:49:14 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:14 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=20
+[00:49:14 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=20
+[00:49:14 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:15 INF] Received HTTP response headers after 761.134ms - 200
+[00:49:15 INF] End processing HTTP request after 985.3735ms - 200
+[00:49:15 INF] Received HTTP response headers after 797.7145ms - 200
+[00:49:15 INF] Received HTTP response headers after 830.0493ms - 200
+[00:49:15 INF] End processing HTTP request after 1234.7838ms - 200
+[00:49:15 INF] End processing HTTP request after 1634.7124ms - 200
+[00:49:33 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:34 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:34 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:34 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[00:49:34 INF] Received HTTP response headers after 268.2598ms - 200
+[00:49:34 INF] Received HTTP response headers after 89.9377ms - 200
+[00:49:34 INF] End processing HTTP request after 957.2888ms - 200
+[00:49:35 INF] End processing HTTP request after 1144.2181ms - 200
+[00:53:10 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:53:10 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:53:10 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:53:10 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:53:10 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:53:10 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[00:53:10 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[00:53:10 INF] Received HTTP response headers after 578.4892ms - 200
+[00:53:10 INF] End processing HTTP request after 615.409ms - 200
+[00:53:11 INF] Retrieved 50 property records, Total: 13357
+[00:53:11 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[00:53:12 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[00:53:12 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[00:53:12 INF] Received HTTP response headers after 61.8877ms - 200
+[00:53:12 INF] End processing HTTP request after 113.4016ms - 200
+[00:53:12 INF] Received HTTP response headers after 2560.8917ms - 200
+[00:53:12 INF] End processing HTTP request after 2603.1566ms - 200
+[00:53:13 INF] Received HTTP response headers after 723.2093ms - 200
+[00:53:13 INF] End processing HTTP request after 783.6825ms - 200
+[00:53:13 INF] Received HTTP response headers after 778.9083ms - 200
+[00:53:13 INF] End processing HTTP request after 839.5409ms - 200
+[00:53:15 INF] Total records fetched: 2000
+[00:53:15 INF] Filtered records: 2000, Paged: 2000
+[00:53:15 INF] Total records fetched: 2000
+[00:53:15 INF] Filtered records: 2000, Paged: 2000
+[00:53:15 INF] Total records fetched: 2000
+[00:53:15 INF] Filtered records: 2000, Paged: 50
+[00:53:15 INF] Retrieved 1000 property records, Total: 13357
+[00:53:15 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0

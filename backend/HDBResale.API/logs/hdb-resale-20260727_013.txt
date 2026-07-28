@@ -1,0 +1,74 @@
+2026-07-27 22:52:47.078 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:52:47.076 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 22:52:47.130 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+2026-07-27 22:52:47.139 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 22:52:47.139 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+2026-07-27 22:52:47.148 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 22:52:47.149 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=20&offset=0
+2026-07-27 22:52:47.364 +08:00 [INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+2026-07-27 22:52:47.364 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:52:47.370 +08:00 [INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+2026-07-27 22:52:47.375 +08:00 [INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+2026-07-27 22:52:47.378 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+2026-07-27 22:52:47.381 +08:00 [INF] Calling API: https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+2026-07-27 22:52:47.386 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=1000
+2026-07-27 22:52:47.383 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+2026-07-27 22:52:47.388 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+2026-07-27 22:52:47.403 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=10
+2026-07-27 22:52:47.406 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_ebc5ab87086db484f88045b47411ebc5&limit=2000
+2026-07-27 22:52:47.562 +08:00 [INF] Received HTTP response headers after 400.846ms - 200
+2026-07-27 22:52:47.566 +08:00 [INF] Received HTTP response headers after 410.7292ms - 200
+2026-07-27 22:52:47.569 +08:00 [INF] End processing HTTP request after 434.9484ms - 200
+2026-07-27 22:52:47.576 +08:00 [INF] End processing HTTP request after 441.4673ms - 200
+2026-07-27 22:52:47.590 +08:00 [INF] Retrieved 20 property records
+2026-07-27 22:52:47.650 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:52:47.669 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:52:47.683 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:52:48.354 +08:00 [INF] Received HTTP response headers after 939.0273ms - 200
+2026-07-27 22:52:48.360 +08:00 [INF] End processing HTTP request after 977.086ms - 200
+2026-07-27 22:52:48.367 +08:00 [INF] Successfully parsed 10 records
+2026-07-27 22:52:48.391 +08:00 [INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+2026-07-27 22:52:48.881 +08:00 [INF] Retrieved 1000 property records
+2026-07-27 22:52:49.243 +08:00 [INF] Received HTTP response headers after 1844.6799ms - 200
+2026-07-27 22:52:49.255 +08:00 [INF] End processing HTTP request after 1877.0749ms - 200
+2026-07-27 22:52:49.668 +08:00 [INF] Successfully parsed 1000 records
+2026-07-27 22:52:50.526 +08:00 [INF] Received HTTP response headers after 3106.346ms - 200
+2026-07-27 22:52:50.531 +08:00 [INF] End processing HTTP request after 3142.7175ms - 200
+2026-07-27 22:52:51.451 +08:00 [INF] Successfully parsed 2000 records
+2026-07-27 22:52:51.490 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:52:58.851 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:52:58.870 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:53:06.886 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:53:06.905 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:53:06.917 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:53:06.928 +08:00 [INF] Getting property list with search: , town: , limit: 20, offset: 0
+2026-07-27 22:54:28.733 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:54:28.734 +08:00 [INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+2026-07-27 22:54:28.754 +08:00 [INF] Getting statistics for Town: null
+2026-07-27 22:54:28.756 +08:00 [INF] Getting resale prices with filters - Town: null, FlatType: null, Limit: 10
+[23:02:06 ERR] Hosting failed to start
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)

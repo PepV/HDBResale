@@ -1,0 +1,199 @@
+2026-07-28 01:03:18.305 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:18.305 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:18.305 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:18.321 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+2026-07-28 01:03:18.321 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.321 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+2026-07-28 01:03:18.378 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.379 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.379 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.380 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+2026-07-28 01:03:18.380 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+2026-07-28 01:03:18.380 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.415 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.408 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.419 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+2026-07-28 01:03:18.822 +08:00 [INF] Received HTTP response headers after 338.9952ms - 200
+2026-07-28 01:03:18.822 +08:00 [INF] Received HTTP response headers after 354.647ms - 200
+2026-07-28 01:03:18.833 +08:00 [INF] Received HTTP response headers after 337.2605ms - 200
+2026-07-28 01:03:18.851 +08:00 [INF] End processing HTTP request after 472.3596ms - 200
+2026-07-28 01:03:18.853 +08:00 [INF] End processing HTTP request after 474.3519ms - 200
+2026-07-28 01:03:18.857 +08:00 [INF] End processing HTTP request after 478.4175ms - 200
+2026-07-28 01:03:18.902 +08:00 [INF] Received HTTP response headers after 468.6167ms - 200
+2026-07-28 01:03:18.915 +08:00 [INF] End processing HTTP request after 601.6439ms - 200
+2026-07-28 01:03:18.975 +08:00 [INF] Received HTTP response headers after 547.5075ms - 200
+2026-07-28 01:03:18.985 +08:00 [INF] End processing HTTP request after 671.1775ms - 200
+2026-07-28 01:03:19.019 +08:00 [INF] Received HTTP response headers after 595.7665ms - 200
+2026-07-28 01:03:19.032 +08:00 [INF] End processing HTTP request after 717.7986ms - 200
+2026-07-28 01:03:19.037 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:19.051 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:19.069 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:19.069 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:19.108 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:19.115 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:19.127 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:19.127 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:19.151 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:29.684 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:29.685 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:29.704 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:29.708 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:29.708 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:29.712 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:29.723 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:29.727 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:34.451 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-28 01:03:34.461 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 01:03:34.461 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 01:03:34.470 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 01:03:34.472 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 01:03:34.485 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-28 01:03:34.490 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-28 01:03:34.645 +08:00 [INF] Received HTTP response headers after 142.5021ms - 200
+2026-07-28 01:03:34.649 +08:00 [INF] Received HTTP response headers after 142.244ms - 200
+2026-07-28 01:03:34.674 +08:00 [INF] End processing HTTP request after 204.1448ms - 200
+2026-07-28 01:03:34.687 +08:00 [INF] End processing HTTP request after 214.8151ms - 200
+2026-07-28 01:03:34.758 +08:00 [INF] Retrieved 50 property records, Total: 13357
+2026-07-28 01:03:34.792 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-28 01:03:35.563 +08:00 [INF] Retrieved 1000 property records, Total: 13357
+2026-07-28 01:03:35.621 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.621 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.621 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.634 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.633 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:35.639 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.639 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:35.649 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:35.655 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:35.658 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:35.662 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:35.666 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.340 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.355 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.358 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.367 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.356 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.383 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.384 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:51.384 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.399 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.403 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.407 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:51.411 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:55.392 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:55.414 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:55.387 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:55.428 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:55.435 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:55.463 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:55.469 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:55.475 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.408 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.408 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.457 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.482 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.469 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.409 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.483 +08:00 [INF] Starting pre-computation of statistics...
+2026-07-28 01:03:56.510 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.520 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.524 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.528 +08:00 [INF] Pre-computed statistics: 193 records
+2026-07-28 01:03:56.532 +08:00 [INF] Pre-computed statistics: 193 records
+[01:29:47 INF] Starting pre-computation of statistics...
+[01:29:47 INF] Starting pre-computation of statistics...
+[01:29:47 INF] Starting pre-computation of statistics...
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=5
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=100
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:47 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200
+[01:29:48 INF] Received HTTP response headers after 811.7022ms - 200
+[01:29:48 INF] Received HTTP response headers after 840.0668ms - 200
+[01:29:48 INF] Received HTTP response headers after 856.6477ms - 200
+[01:29:48 INF] Received HTTP response headers after 845.8244ms - 200
+[01:29:48 INF] Received HTTP response headers after 1059.8178ms - 200
+[01:29:48 INF] Received HTTP response headers after 808.0151ms - 200
+[01:29:48 INF] End processing HTTP request after 1307.0362ms - 200
+[01:29:48 INF] End processing HTTP request after 1210.2094ms - 200
+[01:29:48 INF] End processing HTTP request after 1381.2272ms - 200
+[01:29:48 INF] End processing HTTP request after 1244.4191ms - 200
+[01:29:48 INF] End processing HTTP request after 1410.1343ms - 200
+[01:29:48 INF] End processing HTTP request after 1269.5131ms - 200
+[01:29:48 INF] Pre-computed statistics: 193 records
+[01:29:48 INF] Starting pre-computation of statistics...
+[01:29:48 INF] Starting pre-computation of statistics...
+[01:29:48 INF] Pre-computed statistics: 193 records
+[01:29:48 INF] Starting pre-computation of statistics...
+[01:29:48 INF] Pre-computed statistics: 193 records
+[01:29:49 INF] Pre-computed statistics: 193 records
+[01:29:49 INF] Pre-computed statistics: 193 records
+[01:29:49 INF] Pre-computed statistics: 193 records
+[01:29:55 INF] Starting pre-computation of statistics...
+[01:29:55 INF] Starting pre-computation of statistics...
+[01:29:55 INF] Starting pre-computation of statistics...
+[01:29:55 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200&q=Sengkang
+[01:29:55 INF] Pre-computed statistics: 193 records
+[01:29:55 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=200&q=Sengkang
+[01:29:55 INF] Pre-computed statistics: 193 records
+[01:29:55 INF] Pre-computed statistics: 193 records
+[01:29:55 INF] Received HTTP response headers after 590.3236ms - 200
+[01:29:55 INF] End processing HTTP request after 656.5704ms - 200
+[01:30:02 INF] Starting pre-computation of statistics...
+[01:30:02 INF] Starting pre-computation of statistics...
+[01:30:02 INF] Starting pre-computation of statistics...
+[01:30:02 INF] Pre-computed statistics: 193 records
+[01:30:02 INF] Pre-computed statistics: 193 records
+[01:30:02 INF] Pre-computed statistics: 193 records
+[01:30:05 INF] Starting pre-computation of statistics...
+[01:30:05 INF] Starting pre-computation of statistics...
+[01:30:05 INF] Pre-computed statistics: 193 records
+[01:30:05 INF] Starting pre-computation of statistics...
+[01:30:05 INF] Starting pre-computation of statistics...
+[01:30:05 INF] Pre-computed statistics: 193 records
+[01:30:05 INF] Pre-computed statistics: 193 records
+[01:30:05 INF] Pre-computed statistics: 193 records
+[01:30:12 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[01:30:12 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[01:30:12 INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[01:30:12 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[01:30:12 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[01:30:12 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+[01:30:12 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+[01:30:12 INF] Received HTTP response headers after 594.6826ms - 200
+[01:30:12 INF] End processing HTTP request after 643.7204ms - 200
+[01:30:12 INF] Retrieved 50 property records, Total: 13357
+[01:30:12 INF] Getting property list with search: , town: , limit: 50, offset: 0
+[01:30:14 INF] Received HTTP response headers after 2663.9293ms - 200
+[01:30:14 INF] End processing HTTP request after 2715.545ms - 200
+[01:30:15 INF] Retrieved 1000 property records, Total: 13357
+[01:30:16 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[01:30:16 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Calling CEA Salesperson API: https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:16 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_07c63be0f37e6e59c07a4ddc2fd87fcb&limit=2000
+[01:30:20 INF] Received HTTP response headers after 3215.1391ms - 200
+[01:30:20 INF] Received HTTP response headers after 3197.0366ms - 200
+[01:30:20 INF] Received HTTP response headers after 3242.7961ms - 200
+[01:30:20 INF] End processing HTTP request after 3314.8752ms - 200
+[01:30:20 INF] End processing HTTP request after 3288.0209ms - 200
+[01:30:20 INF] End processing HTTP request after 3331.9253ms - 200
+[01:30:20 INF] Total records fetched: 2000
+[01:30:20 INF] Filtered records: 2000, Paged: 2000
+[01:30:21 INF] Total records fetched: 2000
+[01:30:21 INF] Filtered records: 2000, Paged: 50
+[01:30:21 INF] Getting CEA salespersons with search: , status: , agency: , limit: 50, offset: 0
+[01:30:21 INF] Total records fetched: 2000
+[01:30:21 INF] Filtered records: 2000, Paged: 2000

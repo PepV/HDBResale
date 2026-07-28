@@ -1,0 +1,74 @@
+2026-07-27 23:33:07.210 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.214 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:33:07.215 +08:00 [INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.269 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.269 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:33:07.269 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.280 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.281 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+2026-07-27 23:33:07.282 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+2026-07-27 23:33:07.552 +08:00 [INF] Received HTTP response headers after 258.7464ms - 200
+2026-07-27 23:33:07.562 +08:00 [INF] Received HTTP response headers after 268.2366ms - 200
+2026-07-27 23:33:07.562 +08:00 [INF] Received HTTP response headers after 273.3909ms - 200
+2026-07-27 23:33:07.568 +08:00 [INF] End processing HTTP request after 305.0057ms - 200
+2026-07-27 23:33:07.584 +08:00 [INF] End processing HTTP request after 320.7318ms - 200
+2026-07-27 23:33:07.586 +08:00 [INF] End processing HTTP request after 322.6341ms - 200
+2026-07-27 23:34:29.767 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=897
+2026-07-27 23:34:29.771 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=897
+2026-07-27 23:34:30.457 +08:00 [INF] Received HTTP response headers after 682.4705ms - 200
+2026-07-27 23:34:30.467 +08:00 [INF] End processing HTTP request after 699.8553ms - 200
+2026-07-27 23:34:34.504 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-27 23:34:34.509 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-27 23:34:34.509 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 23:34:34.513 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-27 23:34:34.514 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 23:34:34.518 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0
+2026-07-27 23:34:34.520 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=1000&offset=0
+2026-07-27 23:34:34.594 +08:00 [INF] Received HTTP response headers after 69.935ms - 200
+2026-07-27 23:34:34.597 +08:00 [INF] End processing HTTP request after 84.8515ms - 200
+2026-07-27 23:34:34.647 +08:00 [INF] Retrieved 50 property records, Total: 13357
+2026-07-27 23:34:34.662 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-27 23:34:34.723 +08:00 [INF] Received HTTP response headers after 197.693ms - 200
+2026-07-27 23:34:34.728 +08:00 [INF] End processing HTTP request after 214.2557ms - 200
+2026-07-27 23:34:35.648 +08:00 [INF] Retrieved 1000 property records, Total: 13357
+2026-07-27 23:34:41.040 +08:00 [INF] Getting property list with search: , town: AMK, limit: 50, offset: 0
+2026-07-27 23:34:41.044 +08:00 [INF] Calling property API: https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0&q=AMK
+2026-07-27 23:34:41.046 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0&q=AMK
+2026-07-27 23:34:41.050 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&limit=50&offset=0&q=AMK
+2026-07-27 23:34:41.710 +08:00 [INF] Received HTTP response headers after 656.2861ms - 200
+2026-07-27 23:34:41.721 +08:00 [INF] End processing HTTP request after 674.8296ms - 200
+2026-07-27 23:34:41.734 +08:00 [INF] Retrieved 50 property records, Total: 460
+2026-07-27 23:34:58.350 +08:00 [INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=540
+2026-07-27 23:34:58.354 +08:00 [INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_17f5382f26140b1fdae0ba2ef6239d2f&q=540
+2026-07-27 23:34:58.877 +08:00 [INF] Received HTTP response headers after 519.2296ms - 200
+2026-07-27 23:34:58.884 +08:00 [INF] End processing HTTP request after 533.8072ms - 200
+2026-07-27 23:35:06.199 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+2026-07-27 23:35:06.222 +08:00 [INF] Getting property list with search: , town: , limit: 50, offset: 0
+[23:37:31 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Calling Price Range API: https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:37:31 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:37:31 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Start processing HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=10
+[23:37:31 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Sending HTTP request GET https://data.gov.sg/api/action/datastore_search?resource_id=d_2d493bdcc1d9a44828b6e71cb095b88d&limit=2000
+[23:37:31 INF] Received HTTP response headers after 248.3737ms - 200
+[23:37:31 INF] Received HTTP response headers after 264.0493ms - 200
+[23:37:31 INF] End processing HTTP request after 294.7356ms - 200
+[23:37:31 INF] End processing HTTP request after 295.8814ms - 200
+[23:37:32 INF] Received HTTP response headers after 474.1021ms - 200
+[23:37:32 INF] End processing HTTP request after 505.8188ms - 200
+[23:38:45 ERR] Error fetching price ranges from data.gov.sg
+System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 60 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Net.Http.HttpConnection.ChunkedEncodingReadStream.CopyToAsyncCore(Stream destination, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionResponseContent.<SerializeToStreamAsync>g__Impl|6_0(Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContent.LoadIntoBufferAsyncCore(Task serializeToStreamTask, MemoryStream tempBuffer)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at HDBResale.Application.Services.HDBService.GetPriceRangesAsync(String town, String roomType, Nullable`1 year, Int32 limit) in D:\Projects\hdb\backend\HDBResale.Application\Services\HDBService.cs:line 330
